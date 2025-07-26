@@ -1,9 +1,7 @@
 # Hi there, I'm Tyler! 👋
+I'm a rising 4th year Computer Science student at the University of California Irvine, passionate about mobile and web development!
 
-## About Me
-I'm a rising 4th year Computer Science student at the University of California, Irvine, passionate about mobile and web development!
-
-## What I'm Currently Working On
+## 📝 What I'm Currently Working On
 - **Lume** - An iOS app focused on helping users reduce their screen time and build healthier digital habits
 - Pursuing my **AWS Cloud Practitioner** certification to deepen my cloud computing knowledge
 
@@ -19,8 +17,4 @@ I'm a rising 4th year Computer Science student at the University of California, 
 ## 💬 Ask Me About
 - Social Media and Brainrotitng 
 - iOS development and mobile app design
-- Movies and Music
-
-## 📫 How to Reach Me
-- Email: tylert6@uci.edu
-- Feel free to connect if you're interested in mobile development or want to collaborate!
+- Music and Movies 😄
