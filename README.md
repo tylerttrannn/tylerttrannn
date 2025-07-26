@@ -6,7 +6,7 @@ I'm a rising 4th year Computer Science student at the University of California I
 - Pursuing my **AWS Cloud Practitioner** certification to deepen my cloud computing knowledge
 
 ## 🎓 Campus Involvement
-- **Webmaster** at [Vertical Flight Society at UCI](https:vfsatuci.com)
+- **Webmaster** at [Vertical Flight Society at UCI](https://vfsatuci.com)
 - **Webmaster** at [American Society of Mechanical Engineers at UCI](https://sites.uci.edu/asmeuci/)
 
 ## 🌱 Currently Learning
@@ -15,6 +15,6 @@ I'm a rising 4th year Computer Science student at the University of California I
 - Mobile app design and user experience
 
 ## 💬 Ask Me About
-- Social Media and Brainrotitng 
+- Social Media and Brainrotting
 - iOS development and mobile app design
 - Music and Movies 😄
